@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-community
+langchain-chroma
+langchain-ollama
+chromadb
+sentence-transformers
+pypdf
+pdfplumber
+numpy
+nltk
+rouge-score
